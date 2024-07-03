@@ -31,46 +31,46 @@ author:
   email: "wiserzyf@gmail.com"
 
   # Academic websites
-#  arxiv: # URL - Update with the correct link to your profile
-#  googlescholar: ""
-#  impactstory: # URL
-#  orcid: "http://orcid.org/yourorcidurl"
-#  semantic: # URL
-#  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#  researchgate: # URL
+  #  arxiv: # URL - Update with the correct link to your profile
+  #  googlescholar: ""
+  #  impactstory: # URL
+  #  orcid: "http://orcid.org/yourorcidurl"
+  #  semantic: # URL
+  #  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #  researchgate: # URL
 
   # Repositories and software development
-#  bitbucket: # Username - Update with your username on the site
-#  codepen: # Username
-#  dribbble: # Username
+  #  bitbucket: # Username - Update with your username on the site
+  #  codepen: # Username
+  #  dribbble: # Username
   github: "WiserZhou"
-#  kaggle: # Username
+  #  kaggle: # Username
   stackoverflow: "23584372/wiser-zhou"# User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-#  bluesky: "bsky.app" # Replace this with you Bluesky username
-#  facebook: # Username
-#  flickr: # Username
-#  foursquare: # Username
-#  goodreads: # Username
-#  google_plus: # Username
-#  keybase: # Username
-#  instagram: # Username
-#  lastfm: # Username
-#  linkedin: # Username
-#  mastodon: # URL
-#  medium: # URL
-#  pinterest: # Username
-#  soundcloud: # Username
+  #  bluesky: "bsky.app" # Replace this with you Bluesky username
+  #  facebook: # Username
+  #  flickr: # Username
+  #  foursquare: # Username
+  #  goodreads: # Username
+  #  google_plus: # Username
+  #  keybase: # Username
+  #  instagram: # Username
+  #  lastfm: # Username
+  #  linkedin: # Username
+  #  mastodon: # URL
+  #  medium: # URL
+  #  pinterest: # Username
+  #  soundcloud: # Username
   steam: "wiserx"# Username
-#  telegram: # URL
-#  tumblr: # Username
-#  twitter: # Username for X / Twitter
-#  vine: # Username
-#  weibo: # Username
-#  wikipedia: # Username
-#  xing: # Username
-#  youtube: # Username
+  #  telegram: # URL
+  #  tumblr: # Username
+  #  twitter: # Username for X / Twitter
+  #  vine: # Username
+  #  weibo: # Username
+  #  wikipedia: # Username
+  #  xing: # Username
+  #  youtube: # Username
   zhihu: "https://www.zhihu.com/people/63-34-6-26" # URL
 
 
@@ -200,33 +200,25 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  academic:
     output: true
     permalink: /:collection/:path/
-#  talks:
-#    output: true
-#    permalink: /:collection/:path/
+  software:
+    output: true
+    permalink: /:collection/:path/
+  Resources:
+    output: true
+    permalink: /:collection/:path/
+  CV:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -234,10 +226,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _academic
   - scope:
       path: ""
-      type: teaching
+      type: academic
     values:
       layout: single
       author_profile: true
@@ -252,19 +244,26 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _software
   - scope:
       path: ""
-      type: portfolio
+      type: software
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+#  - talks:
+  - scope:
+      path: ""
+      type: Resources
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 #  - scope:
 #      path: ""
-#      type: talks
+#      type: cv
 #    values:
 #      layout: talk
 #      author_profile: true

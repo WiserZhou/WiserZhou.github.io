@@ -3,21 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  #  - title: "Talks"
-  #    url: /talks/
-
-
   - title: "Academic Experience"
-    url: /teaching/
+    url: /academic/
 
   - title: "Software Development"
-    url: /portfolio/
+    url: /software/
 
-    #  - title: "Blog Posts"
-    #    url: /year-archive/
+  - title: "Resources"
+    url: /Resources/
 
   - title: "CV"
     url: /cv/
-
-#  - title: "Guide"
-#    url: /markdown/
