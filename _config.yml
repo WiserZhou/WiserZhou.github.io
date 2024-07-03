@@ -27,7 +27,7 @@ author:
   bio: "A software developer and academic worker"
   location: "Weihai City, Shandong Province, China"
   employer: "Harbin Institute of Technology"
-#  uri: "https://WiserZhou/wiserzhou/github.io"# URL
+  uri: "https://github.com/WiserZhou/WiserZhou.github.io"# URL
   email: "wiserzyf@gmail.com"
 
   # Academic websites
@@ -262,13 +262,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+#  - scope:
+#      path: ""
+#      type: talks
+#    values:
+#      layout: talk
+#      author_profile: true
+#      share: true
 
 
 # Sass/SCSS
