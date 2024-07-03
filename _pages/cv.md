@@ -18,7 +18,6 @@ redirect_from:
 - **Github**: [WiserZhou](https://github.com/WiserZhou)
 
 ## Education
-=====
 
 - **Harbin Institute of Technology**, Bachelor in Software Engineering (Sep 2022 - Jul 2026)
     - **Scholarships**: Huawei Scholarship, First-Class People's Scholarship
