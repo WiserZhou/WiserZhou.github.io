@@ -33,7 +33,6 @@ If you are interested in me, please contact me.</p>
 - 💁‍♂️ I have participated in multiple competitions as a team and won awards.
 - ✍ I write technical blogs, You can visit my blog site at [CSDN](https://blog.csdn.net/imm_ortal_?spm=1010.2135.3001.5343).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Webpage](https://wiserzhou.github.io/) for more details about me.
   
   <!--End Intro-->
 
