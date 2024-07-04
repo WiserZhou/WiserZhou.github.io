@@ -52,7 +52,7 @@ If you are interested in me, please contact me.</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../images/Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="../images/Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="../images/Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="../images/Skills_Animation_White.gif" style="margin-right: 20px; margin-bottom: 20px;">
 </picture>
 <br />
 
