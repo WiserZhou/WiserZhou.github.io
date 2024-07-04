@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 
+- During the winter break of my sophomore year, I began to explore the field of deep learning. I self-studied some works related to NLP and multi-modal fields. In the second semester of my sophomore year, I decided to focus on the Diffusion direction, studied the mathematical principles, and learned about the latest advancements in Diffusion. Currently, I have started running code and experimenting.
+- Initially, I participated in paper discussions on multi-modal virtual environments in Professor [Guoqing Chao](https://guoqingchao.github.io/)'s research group. Later, under the supervision of Professor [Zhaobo  Qi](https://scholar.google.com.hk/citations?user=QZ8URKAAAAAJ&hl=sv) in the school's laboratory, I conducted paper discussions and worked on applying Diffusion to the procedure planning direction, with plans to submit a paper.
+- I also conducted research as a visiting student in Assistant Professor [Huan Wang](https://huanwang.tech/)'s research group at Westlake University, focusing on the personalization direction of Diffusion.
 
-- 大二寒假开始入门深度学习领域，自学过一些 NLP 和 multi-model 领域的相关工作，大二下开始确定Diffusion 方向，学习了数学原理，了解了现阶段的 Diffusion 最新进展，现已开始跑代码炼丹。
-- 最初在晁国清老师的课题组做过有关多模态虚席的论文分享，又在学校实验室师从戚兆波老师，做过论文分享，做 Diffusion 应用于 procedure planning 方向，拟投。
-- 在西湖大学王欢助教的课题组做科研实习访问学生，做有关Diffusion的personalization方向的研究
+---
