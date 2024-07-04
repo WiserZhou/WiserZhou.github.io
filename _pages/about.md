@@ -15,15 +15,13 @@ redirect_from:
 
 <!--Header Name-->
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ WiserZhou
-
 *Undergraduate student in software engineering*
 <br />
 
 <!--Start Intro-->
 
 <p align="left">
-My name is Yufan Zhou (Chinese: 周雨凡).I am an undergraduate student at Harbin Institute of Technology. I have also done a research internship and visited students in Assistant Professor Huan Wang’s ENCODE Lab(WestLake University) before.
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>My name is Yufan Zhou (Chinese: 周雨凡).I am an undergraduate student at Harbin Institute of Technology. I have also done a research internship and visited students in Assistant Professor Huan Wang’s ENCODE Lab(WestLake University) before.
 <br/>
 <br/>
 I am broadly interested in various software development technology and Diffusion theory about T2V / T2I /personalization generation / projected with procedure planning(Video Prediction).
