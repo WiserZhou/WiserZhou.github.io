@@ -20,6 +20,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 - **QQ**: 2102955539
 - **WeChat**: WiserXX
 - **Github**: [WiserZhou](https://github.com/WiserZhou)
+- **Information**: [CV-PDF](https://github.com/WiserZhou/CV/blob/main/CV.pdf)
 
 ## Education
 
