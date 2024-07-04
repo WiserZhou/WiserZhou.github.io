@@ -26,6 +26,7 @@ redirect_from:
 <br/>
 I am broadly interested in various software development technology and Diffusion theory about T2V / T2I /personalization generation / projected with procedure planning(Video Prediction).
 <br/>
+<br/>
 If you are interested in me, please contact me.</p>
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
