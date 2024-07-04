@@ -5,13 +5,17 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
+
+
 
 {% include base_path %}
 
 ## Contact Information
 
-- **Email**: wiserZYF@gmail.com
+- **Email**: <wiserZYF@gmail.com>
 - **Phone**: +86 19819825480
 - **QQ**: 2102955539
 - **WeChat**: WiserXX
@@ -20,7 +24,7 @@ redirect_from:
 ## Education
 
 - **Harbin Institute of Technology**, Bachelor in Software Engineering (Sep 2022 - Jul 2026)
-    - **Scholarships**: Huawei Scholarship, First-Class People's Scholarship
+  - **Scholarships**: Huawei Scholarship, First-Class People's Scholarship
 
 ## Core Course Grades
 
@@ -47,17 +51,17 @@ redirect_from:
 ## Projects and Competitions
 
 - **National University Physics Experiment Competition**, National Third Prize (Dec 2023)
-    - Description: Used Unity 3D technology to implement virtual experiment deployment. I was responsible for setting up
+  - Description: Used Unity 3D technology to implement virtual experiment deployment. I was responsible for setting up
       the backend SpringBoot server to achieve interaction between Matlab scripts and the front end.
 - **National University Software Innovation Competition**, Provincial Second Prize (Apr 2024)
-    - Description: Used Android and MLC LLM for accessible operations and large model mobile deployment. Achieved
+  - Description: Used Android and MLC LLM for accessible operations and large model mobile deployment. Achieved
       automatic clicking and input based on Android page labels. I was responsible for implementing mobile accessibility
       operations and LLM integration.
 - **School Graduation Student-Teacher Selection System Development** (First half of 2023, freshman year)
-    - Description: Led an 8-member team to develop the school's graduation student-teacher selection application system
+  - Description: Led an 8-member team to develop the school's graduation student-teacher selection application system
       using Vue and SpringBoot technology, intended for school system use.
 - **Medical Skin Disease Diagnosis Mini Program Development** (First semester of sophomore year)
-    - Description: Embedded Baidu PaddlePaddle image classification recognition model in the WeChat mini program,
+  - Description: Embedded Baidu PaddlePaddle image classification recognition model in the WeChat mini program,
       trained with skin disease image dataset, and provided disease analysis suggestions. I was responsible for mini
       program development and interaction integration, and also deployed the model and application on a Raspberry Pi.
 
