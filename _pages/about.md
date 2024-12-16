@@ -86,8 +86,6 @@ I truly believe that great ideas and improvements come from open discussions and
 
 If you've got any questions about my research or if you've tried reaching out through GitHub issues and haven't heard back, please don't hesitate to drop me an email. I’m always here to chat or help out in any way I can.
 
-</p>
-
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ I have participated in multiple competitions as a team and won awards.
