@@ -22,17 +22,15 @@ redirect_from:
 
 <!--Start Intro-->
 ![Emoji](https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430){: width="30" align="left" }
-My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Harbin Institute of Technology, advised by Prof. [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang) and [Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/). I have also completed research internships with Assistant Professor [Huan Wang](https://huanwang.tech/) at ENCODE Lab (WestLake University).
+My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Harbin Institute of Technology, advised by Prof. [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang) and [Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/). I have also done a research internship and visited students in Assistant Professor [Huan Wang](https://huanwang.tech/)’s ENCODE Lab (WestLake University) before.
 
-<p>I am broadly interested in software development technologies and diffusion theory, particularly in T2V (Text-to-Video), T2I (Text-to-Image), personalization generation, and procedural planning (e.g., Video Prediction). My focus lies in:</p>
+<p>I am broadly interested in various software development technologies and diffusion theory, particularly in T2V (Text-to-Video), T2I (Text-to-Image), personalization generation, and projects involving procedural planning (e.g., Video Prediction).</p>
 
-<ul>
-  <li>Generating images in diverse styles while reducing data acquisition costs.</li>
-  <li>3D generation and world-building as ultimate goals of diffusion technologies.</li>
-  <li>Incorporating physical conditions into diffusion for realistic results.</li>
-</ul>
+<p>Initially, my interest was in various diffusion works, aspiring to use generative skills to create anything. Currently, I focus more on image generation, such as personalization and data or dataset augmentation. My goal is to generate images in various styles and reduce the cost of data acquisition. I'm eager to connect with anyone who shares this vision for AI or appreciates the same research approach.</p>
 
-<p>With logic, mathematics, and architectural designs, I believe we can address these challenges effectively.</p>
+<p>Recently, my interest has expanded to 3D generation and world-building, which I believe is the ultimate goal of diffusion and generative subjects. By enabling arbitrary editing styles of images, everyone can access resources and 3D worlds. Additionally, incorporating physical conditions into diffusion can make the generated results appear more realistic and logical. I am optimistic that this can be achieved soon, given that image generation began only a few years ago.</p>
+
+<p>In addressing these issues, my focus is on what I do and aim to achieve. I believe that with logic, mathematics, and the creation of various architectures, one can accomplish anything.</p>
 
 ---
 
@@ -57,6 +55,8 @@ My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Har
 
 ## 💻 Software Projects
 
+<p>I enjoy creating software for fun and exploring new technologies, such as Vue, Spring Boot, Android, and other tech stacks. I have completed several projects using these technologies, which have enhanced my technical skills, project management abilities, and experience in requirement analysis. Additionally, I hope my library can assist others in learning and applying code for their needs and research.</p>
+
 - **[Simple Qt Browser Framework](https://github.com/WiserZhou/Simple-Paging-Browser-Framework)**
 - **[Android Accessibility Service](https://github.com/WiserZhou/AccessibilityService)**
 - **[Wholesale And Retail System (Vue + Springboot)](https://github.com/WiserZhou/WholesaleAndRetailSystem)**
@@ -65,9 +65,20 @@ My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Har
 
 ## 🎁 Academic Projects
 
+<p>I have conducted several surveys in my field to provide detailed assistance to those interested in my work.</p>
+
 - **[A Survey of Synthetic Image Methods with Diffusion](https://github.com/WiserZhou/A-Survey-of-Synthetic-Images-Methods-with-Diffusion)**
 
 ---
+
+<!-- # 💼 Academic Service
+
+P.S. Just some volunteering to show that I am happy to contribute to society (QwQ).
+Proof of my participation in these volunteer services can be verified on the respective conference websites.
+
+- Journal Reviewer: T-PAMI, TMLR, Frontier of CS
+- Conference Reviewer: ICML/ICLR/NeurIPS, AISTATS, CVPR/ECCV/ICCV, ACMMM/ICPR/ICME
+- Workshop Reviewer: NeurIPS2023-R0-FoMo, ICLR2024-BGPT, ICLR2024-SeT -->
 
 ## 🔗 Links
 
