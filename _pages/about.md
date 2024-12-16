@@ -58,6 +58,7 @@ My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Har
 <p>I have conducted several surveys in my field to provide detailed assistance to those interested in my work.</p>
 
 - **[A Survey of Synthetic Image Methods with Diffusion](https://github.com/WiserZhou/A-Survey-of-Synthetic-Images-Methods-with-Diffusion)**
+- **[A Survey of Procedure Planning in Instructional Videos](https://github.com/WiserZhou/A-Survey-of-Procedure-Planning-in-Instructional-Videos)**
 
 ---
 
