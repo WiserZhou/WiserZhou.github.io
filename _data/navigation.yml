@@ -3,21 +3,21 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  # - title: "News"
+  #   url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-research-publications"
+  # - title: "Publications"
+  #   url: "/#-research-publications"
 
-  - title: "Internships"
-    url: "/#-internships"
+  # - title: "Internships"
+  #   url: "/#-internships"
 
-  - title: "Patents"
-    url: "/#-patents"
+  # - title: "Patents"
+  #   url: "/#-patents"
 
-  - title: "Projects"
-    url: "/#-projects"
+  # - title: "Projects"
+  #   url: "/#-projects"
 
-  - title: "Academic Service"
-    url: "/#-academic-service"
+  # - title: "Academic Service"
+  #   url: "/#-academic-service"
   
