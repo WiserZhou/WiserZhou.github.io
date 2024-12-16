@@ -6,38 +6,38 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Huanran Chen"
-description              : "Student at Tsinghua SAIL Group"
-repository               : "huanranchen/huanranchen.github.io"
+title                    : "Yufan Zhou"
+description              : "Student at Harbin Institute of Technology"
+repository               : "WiserZhou/WiserZhou.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  "QYsKXccAAAAj" # get google_analytics_id from https://analytics.google.com/analytics/
+# google_analytics_id      :  "QYsKXccAAAAj" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  "google-site-verification=6ScN9LPyidMwUPPTabtPI3BbJQyuiaCmyPcQ2J7Edoo"
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+# google_site_verification :  "google-site-verification=6ScN9LPyidMwUPPTabtPI3BbJQyuiaCmyPcQ2J7Edoo"
+# bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+# baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Huanran Chen"
+  name             : "Yufan Zhou"
   avatar           : "images/avatar.png"
-  bio              : "Tsinghua SAIL Group"
-  location         : "Beijing, China"
+  bio              : "Harbin Institute of Technology"
+  location         : "Shandong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=QYsKXccAAAAj"
-  email            : "huanran_chen@outlook.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AFix5MbNV8azkX-t-6P_nxXFIp-ZYedZLbzJBU7Y9LeDAW_1JbzlAlXShJ_HEpepzVWI7h9VmKXmWByMvAkQZQ&user=dNe36RoAAAAJ"
+  email            : "wiserzyf[at]gmail[dot]com"
   researchgate     :
-  uri              : "http://huanranchen.github.io"
+  uri              : "http://WiserZhou.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "huanranchen"
+  github           : "WiserZhou"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AndrewC77200404"
+  twitter          : "WZhou72767"
   vine             :
   weibo            :
   xing             :
