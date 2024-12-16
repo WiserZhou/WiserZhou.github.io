@@ -53,21 +53,41 @@ My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Har
 
 ---
 
-## 💻 Software Projects
-
-<p>I enjoy creating software for fun and exploring new technologies, such as Vue, Spring Boot, Android, and other tech stacks. I have completed several projects using these technologies, which have enhanced my technical skills, project management abilities, and experience in requirement analysis. Additionally, I hope my library can assist others in learning and applying code for their needs and research.</p>
-
-- **[Simple Qt Browser Framework](https://github.com/WiserZhou/Simple-Paging-Browser-Framework)**
-- **[Android Accessibility Service](https://github.com/WiserZhou/AccessibilityService)**
-- **[Wholesale And Retail System (Vue + Springboot)](https://github.com/WiserZhou/WholesaleAndRetailSystem)**
-
----
-
 ## 🎁 Academic Projects
 
 <p>I have conducted several surveys in my field to provide detailed assistance to those interested in my work.</p>
 
 - **[A Survey of Synthetic Image Methods with Diffusion](https://github.com/WiserZhou/A-Survey-of-Synthetic-Images-Methods-with-Diffusion)**
+
+---
+
+## 💻 Software Projects
+
+<p>I enjoy creating software for fun and exploring new technologies, such as Vue, Spring Boot, Android, and other tech stacks. I have completed several projects using these technologies, which have enhanced my technical skills, project management abilities, and experience in requirement analysis. Additionally, I hope my library can assist others in learning and applying code for their needs and research.</p>
+
+- **[MM-LSTM](https://github.com/WiserZhou/MM-LSTM)**
+- **[LLM agent + RAG + Virtual Digital Person](https://github.com/WiserZhou/QA-question)**
+- **[Simple Qt Browser Framework](https://github.com/WiserZhou/Simple-Paging-Browser-Framework)**
+- **[Android Accessibility Service](https://github.com/WiserZhou/AccessibilityService)**
+- **[Wholesale And Retail System (Vue + Springboot)](https://github.com/WiserZhou/WholesaleAndRetailSystem)**
+- **[Medicine WeChat Mini Program](https://github.com/WiserZhou/weixinMedicine)**
+- **[Teacher Student Mutual Selection System](https://github.com/WiserZhou/VolunteerSelection)**
+
+---
+
+## Course Projects
+
+<p>I enjoy acquiring knowledge in computer science and related fields. During my courses, I have built several projects to enhance my learning experience. By writing code and documenting information in markdown, I aim to teach myself and future learners more effectively.</p>
+
+- **[Java Course](https://github.com/WiserZhou/JavaLearn)**
+- **[Data Structure Course](https://github.com/WiserZhou/DataStructure)**
+- **[Algorithm Course](https://github.com/WiserZhou/AlgorithmProblem.git)**
+- **[Software Construction Course](https://github.com/WiserZhou/SoftwareConstruction)**
+- **[Python Course](https://github.com/WiserZhou/pythonCourse)**
+- **[Web Course](https://github.com/WiserZhou/WebWork)**
+- **[Database System Course](https://github.com/WiserZhou/DatabaseSystem)**
+- **[Network Course](https://github.com/WiserZhou/network)**
+- **[Operation System Course](https://github.com/WiserZhou/OS_Code)**
 
 ---
 
