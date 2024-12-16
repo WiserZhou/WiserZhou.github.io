@@ -21,9 +21,8 @@ redirect_from:
 *Undergraduate student in software engineering*
 
 <!--Start Intro-->
-<p align="left">
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Emoji" />
-My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Harbin Institute of Technology, advised by Prof. [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang) and [Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/). I have also completed research internships with Assistant Professor [Huan Wang](https://huanwang.tech/) at ENCODE Lab (WestLake University).</p>
+![Emoji](https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430){: width="30" align="left" }
+My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Harbin Institute of Technology, advised by Prof. [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang) and [Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/). I have also completed research internships with Assistant Professor [Huan Wang](https://huanwang.tech/) at ENCODE Lab (WestLake University).
 
 <p>I am broadly interested in software development technologies and diffusion theory, particularly in T2V (Text-to-Video), T2I (Text-to-Image), personalization generation, and procedural planning (e.g., Video Prediction). My focus lies in:</p>
 
