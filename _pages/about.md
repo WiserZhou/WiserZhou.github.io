@@ -22,7 +22,7 @@ redirect_from:
 
 <!--Start Intro-->
 
-My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Harbin Institute of Technology, advised by Prof. [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang) and [Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/). I have also done a research internship and visited students in Assistant Professor [Huan Wang](https://huanwang.tech/)’s ENCODE Lab (WestLake University) before.
+My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Harbin Institute of Technology, advised by Prof. [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang) and [Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/). I have also done a research internship and visited students in Assistant Professor [Huan Wang](https://huanwang.tech/)’s ENCODE Lab (WestLake University) and Assistant Professor [Linfeng Zhang](http://www.zhanglinfeng.tech/)'s EPIC LAB before.
 
 <p>I am broadly interested in various software development technologies and diffusion theory, particularly in T2V (Text-to-Video), T2I (Text-to-Image), personalization generation, and projects involving procedural planning (e.g., Video Prediction).</p>
 
@@ -49,8 +49,9 @@ My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Har
 
 ## 💼 Internships
 
-- **2024.05 - 2024.11**: Research Intern, ENCODE LAB, WestLake University (Advised by Prof. Huan Wang)
-
+- Research Intern, ENCODE LAB, WestLake University (Advised by Prof. [Huan Wang](https://huanwang.tech/))
+- Research Intern, EPIC LAB, Shanghai Jiao Tong University (Advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/))
+<!-- **2024.05 - 2024.11**:  -->
 ---
 
 ## 🎁 Academic Projects
@@ -101,9 +102,9 @@ Proof of my participation in these volunteer services can be verified on the res
 - Conference Reviewer: ICML/ICLR/NeurIPS, AISTATS, CVPR/ECCV/ICCV, ACMMM/ICPR/ICME
 - Workshop Reviewer: NeurIPS2023-R0-FoMo, ICLR2024-BGPT, ICLR2024-SeT -->
 
-## 🔗 Links
+<!-- ## 🔗 Links
 
-- Advisor: [Zhaobo Qi](https://scholar.google.com.hk/citations?user=QZ8URKAAAAAJ&hl=zh-CN), [Huan Wang](https://huanwang.tech/), [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang), [Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/)
+- Advisor: [Zhaobo Qi](https://scholar.google.com.hk/citations?user=QZ8URKAAAAAJ&hl=zh-CN), [Huan Wang](https://huanwang.tech/), [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang), [Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/) -->
 
 ---
 
