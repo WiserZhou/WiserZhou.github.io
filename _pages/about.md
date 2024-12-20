@@ -41,7 +41,7 @@ My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Har
 **Yufan Zhou**, Zhaobo Qi, Lingshuai Lin, Jungi Jing, Tingting Chai, Beichen Zhang, Shuhui Wang, Weigang Zhang  
 
 - Focuses on goal-directed planning using visual observations.
-- Proposes a latent space temporal logical interpolation module.
+- Proposes a latent space temporal interpolation module.
 - Implements masking strategies and task-adaptive proximity loss achieving SOTA performance.  
 - **[Under Review - ICLR 2025](https://openreview.net/forum?id=HnpDHiItd2)**
 
