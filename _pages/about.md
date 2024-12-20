@@ -49,8 +49,8 @@ My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Har
 
 ## 💼 Internships
 
-- Research Intern, ENCODE LAB, WestLake University (Advised by Prof. [Huan Wang](https://huanwang.tech/))
-- Research Intern, EPIC LAB, Shanghai Jiao Tong University (Advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/))
+- **May 2024 - Aug 2024**: Research Intern, ENCODE LAB, WestLake University (Advised by Prof. [Huan Wang](https://huanwang.tech/))
+- **Sep 2024 - Nov 2024**: Research Intern, EPIC LAB, Shanghai Jiao Tong University (Advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/))
 
 ---
 
