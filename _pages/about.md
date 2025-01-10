@@ -55,6 +55,7 @@ In addressing these issues, my focus is on what I do and aim to achieve. I belie
 - Introduces unCLIP-based image conditions and gradually declining interpolation strategy.
 - Implements a three-stage denoising process with feedback mechanism for effective concept blending.
 - Demonstrates superior performance on multiple benchmarks through extensive experiments.
+- **Under Preparation - ICML 2025**
 
 ---
 
