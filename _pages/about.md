@@ -45,6 +45,17 @@ In addressing these issues, my focus is on what I do and aim to achieve. I belie
 - Implements masking strategies and task-adaptive proximity loss achieving SOTA performance.  
 - **[Under Review - ICLR 2025](https://openreview.net/forum?id=HnpDHiItd2)**
 
+## 📘 Papers in "Diffusion on Image Personalization"
+
+### FreeBlend: Feedback-driven Latent Interpolation Diffusion for Concept Blending
+
+**Yufan Zhou**, Haoyu Shen, Huan Wang
+
+- Proposes a novel feedback-driven latent interpolation approach for concept blending in image generation.
+- Introduces unCLIP-based image conditions and gradually declining interpolation strategy.
+- Implements a three-stage denoising process with feedback mechanism for effective concept blending.
+- Demonstrates superior performance on multiple benchmarks through extensive experiments.
+
 ---
 
 ## 💼 Internships
