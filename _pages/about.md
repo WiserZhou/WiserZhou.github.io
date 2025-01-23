@@ -38,7 +38,7 @@ In addressing these issues, my focus is on what I do and aim to achieve. I belie
 
 ### Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos
 
-**Yufan Zhou**, Zhaobo Qi, Lingshuai Lin, Jungi Jing, Tingting Chai, Beichen Zhang, Shuhui Wang, Weigang Zhang  
+**Yufan Zhou**, Zhaobo Qi, Lingshuai Lin, Junqi Jing, Tingting Chai, Beichen Zhang, Shuhui Wang, Weigang Zhang  
 
 - Focuses on goal-directed planning using visual observations.
 - Proposes a latent space temporal interpolation module.
