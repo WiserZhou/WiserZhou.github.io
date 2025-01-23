@@ -43,7 +43,7 @@ In addressing these issues, my focus is on what I do and aim to achieve. I belie
 - Focuses on goal-directed planning using visual observations.
 - Proposes a latent space temporal interpolation module.
 - Implements masking strategies and task-adaptive proximity loss achieving SOTA performance.  
-- **[Under Review - ICLR 2025](https://openreview.net/forum?id=HnpDHiItd2)**
+- **[Accepted - ICLR 2025](https://openreview.net/forum?id=HnpDHiItd2)**
 
 ## 📘 Papers in "Diffusion on Image Personalization"
 
