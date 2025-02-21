@@ -47,7 +47,7 @@ In addressing these issues, my focus is on what I do and aim to achieve. I belie
 
 ## 📘 Papers in "Diffusion on Image Personalization"
 
-### FreeBlend: Feedback-driven Latent Interpolation Diffusion for Concept Blending
+### FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion
 
 **Yufan Zhou**, Haoyu Shen, Huan Wang
 
