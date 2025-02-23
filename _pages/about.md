@@ -32,7 +32,7 @@ My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Har
 
 <p>In addressing these issues, my focus is on what I do and aim to achieve. I believe that with logic, mathematics, and the creation of various architectures, one can accomplish anything.</p>
 
-<p>You can find my CV here: [Yufan Zhou's Curriculum Vitae](../assets/English_CV.pdf).</p>
+You can find my CV here: [Yufan Zhou's Curriculum Vitae](../assets/English_CV.pdf).
 
 ---
 
@@ -40,7 +40,7 @@ My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Har
 
 ### Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos
 
-**Yufan Zhou**, Zhaobo Qi, Lingshuai Lin, Junqi Jing, Tingting Chai, Beichen Zhang, Shuhui Wang, Weigang Zhang  
+**Yufan Zhou**, Zhaobo Qi, Lingshuai Lin, et al.
 
 - Focuses on goal-directed planning using visual observations.
 - Proposes a latent space temporal interpolation module.
