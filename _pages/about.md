@@ -30,7 +30,9 @@ My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Har
 
 <p>Recently, my interest has expanded to 3D generation and world-building, which I believe is the ultimate goal of diffusion and generative subjects. By enabling arbitrary editing styles of images, everyone can access resources and 3D worlds. Additionally, incorporating physical conditions into diffusion can make the generated results appear more realistic and logical. I am optimistic that this can be achieved soon, given that image generation began only a few years ago.</p>
 
-In addressing these issues, my focus is on what I do and aim to achieve. I believe that with logic, mathematics, and the creation of various architectures, one can accomplish anything. For more information about me, please refer to my [CV](https://github.com/WiserZhou/WiserZhou.github.io/tree/main/assets/English_CV.pdf).
+<p>In addressing these issues, my focus is on what I do and aim to achieve. I believe that with logic, mathematics, and the creation of various architectures, one can accomplish anything.</p>
+
+<p>You can find my CV here: [Yufan Zhou's Curriculum Vitae](../assets/English_CV.pdf).</p>
 
 ---
 
