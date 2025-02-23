@@ -38,35 +38,39 @@ You can find my CV here: [Yufan Zhou's Curriculum Vitae](../assets/English_CV.pd
 
 ## 📘 Papers in "Procedure Planning in Video Prediction"
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">ICLR 2025 poster</div><img src='images/MTID_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'>
+<div>
+<div class="badge">ICLR 2025 Poster</div>
+<img src='images/MTID_pipeline.png' alt="sym" width="100%"></div>
+</div>
 <div class='paper-box-text' markdown="1">
 
-### Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos
+### [Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos](https://openreview.net/forum?id=HnpDHiItd2)
 
 **Yufan Zhou**, Zhaobo Qi, Lingshuai Lin, et al.
 
-- Focuses on goal-directed planning using visual observations.
-- Proposes a latent space temporal interpolation module.
+- Focuses on goal-directed planning using visual observations and proposes a latent space temporal interpolation module.
 - Implements masking strategies and task-adaptive proximity loss achieving SOTA performance.  
-- **[Accepted - ICLR 2025](https://openreview.net/forum?id=HnpDHiItd2)**
 
 </div>
 </div>
 
 ## 📘 Papers in "Diffusion on Image Personalization"
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge2">Preprint 2025</div><img src='images/Freeblend_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'>
+<div>
+<div class="badge">Preprint 2025</div>
+<img src='images/FreeBlend_pipeline2.png' alt="sym" width="100%"></div>
+</div>
 <div class='paper-box-text' markdown="1">
 
-### FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion
+### [FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion](https://www.arxiv.org/pdf/2502.05606)
 
 **Yufan Zhou\***, Haoyu Shen\*, Huan Wang
 
-- Proposes a novel feedback-driven latent interpolation approach for concept blending in image generation.
-- Introduces unCLIP-based image conditions and gradually declining interpolation strategy.
-- Implements a three-stage denoising process with feedback mechanism for effective concept blending.
-- Demonstrates superior performance on multiple benchmarks through extensive experiments.
-- **[Webpage](https://petershen-csworld.github.io/FreeBlend/)**
+- Proposes a novel feedback-driven latent interpolation approach for concept blending in three-stage image generation with unCLIP-based image conditions.
+- Demonstrates superior performance on both visual results and multiple benchmarks through extensive experiments.
+- Welcome to our **[Webpage](https://petershen-csworld.github.io/FreeBlend/)**
 
 </div>
 </div>
