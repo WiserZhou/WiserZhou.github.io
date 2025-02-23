@@ -38,6 +38,9 @@ You can find my CV here: [Yufan Zhou's Curriculum Vitae](../assets/English_CV.pd
 
 ## 📘 Papers in "Procedure Planning in Video Prediction"
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 poster</div><img src='images/MTID-pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 ### Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos
 
 **Yufan Zhou**, Zhaobo Qi, Lingshuai Lin, et al.
