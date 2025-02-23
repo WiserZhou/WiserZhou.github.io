@@ -57,7 +57,7 @@ You can find my CV here: [Yufan Zhou's Curriculum Vitae](../assets/English_CV.pd
 
 ### FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion
 
-**Yufan Zhou**, Haoyu Shen, Huan Wang
+**Yufan Zhou\***, Haoyu Shen\*, Huan Wang
 
 - Proposes a novel feedback-driven latent interpolation approach for concept blending in image generation.
 - Introduces unCLIP-based image conditions and gradually declining interpolation strategy.
