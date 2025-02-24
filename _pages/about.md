@@ -20,6 +20,7 @@ redirect_from:
 <!--Header Name-->
 ![Emoji](https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430){: width="30" align="left" }*Undergraduate student in software engineering*
 
+
 <!--Start Intro-->
 
 My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Harbin Institute of Technology, advised by Prof. [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang) and [Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/). I have also done a research internship and visited students in Assistant Professor [Huan Wang](https://huanwang.tech/)’s ENCODE Lab (WestLake University) and Assistant Professor [Linfeng Zhang](http://www.zhanglinfeng.tech/)'s EPIC LAB before.
@@ -34,37 +35,33 @@ My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Har
 
 You can find my CV here: [Yufan Zhou's Curriculum Vitae](../assets/English_CV.pdf).
 
----
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=WiserZhou&label=Profile%20views&color=yellow&style=for-the-badge&logo=star&base=0&abbreviated=true" alt="Profile views" />
+</p>
 
-## 📘 Papers in "Procedure Planning in Video Prediction"
+# 🔥 News
+- **2025.02**: &nbsp;🤗 The paper *"FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion"* has been published as a preprint on ArXiv.
+- **2025.01**: &nbsp;🎉 The paper *"Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos"* has been accepted as a poster at ICLR 2025.
+- **2024.10**: &nbsp;🎉 Awarded the National Scholarship by the Ministry of Education of China.
+- **2024.08**: &nbsp;🤗 Started a Research Internship at EPIC Lab, Shanghai Jiao Tong University, focusing on Adversarial Attacks.
+- **2024.07**: &nbsp;🎉 Received the National Third Prize in the Computer Design Contest with the Virtual Digital Agent project.
+- **2024.06**: &nbsp;🤗 Started a Research Internship at ENCODE Lab, Westlake University, focusing on Image Generation with Diffusion Models.
+- **2024.05**: &nbsp;🎉 Named a Finalist in the Mathematical Contest in Modeling with MM-LSTM method.
+- **2024.04**: &nbsp;🎉 Awarded the Huawei Smart Base Scholarship.
+- **2023.12**: &nbsp;🎉 Won the National Third Prize in the Physics Experiment Competition with Unity 3D project.
 
-<div class='paper-box'><div class='paper-box-image'>
-<div>
-<div class="badge">ICLR 2025 Poster</div>
-<img src='images/MTID_pipeline.png' alt="sym" width="100%"></div>
-</div>
+# 📝 Publications 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Preprint 2025</div>
+      <img src='images/FreeBlend_pipeline2.png' alt="sym" width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
-### [Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos](https://openreview.net/forum?id=HnpDHiItd2)
-
-**Yufan Zhou**, Zhaobo Qi, Lingshuai Lin, et al.
-
-- Focuses on goal-directed planning using visual observations and proposes a latent space temporal interpolation module.
-- Implements masking strategies and task-adaptive proximity loss achieving SOTA performance.  
-
-</div>
-</div>
-
-## 📘 Papers in "Diffusion on Image Personalization"
-
-<div class='paper-box'><div class='paper-box-image'>
-<div>
-<div class="badge">Preprint 2025</div>
-<img src='images/FreeBlend_pipeline2.png' alt="sym" width="100%"></div>
-</div>
-<div class='paper-box-text' markdown="1">
-
-### [FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion](https://www.arxiv.org/pdf/2502.05606)
+## [FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion](https://www.arxiv.org/pdf/2502.05606)
 
 **Yufan Zhou\***, Haoyu Shen\*, Huan Wang
 
@@ -75,25 +72,39 @@ You can find my CV here: [Yufan Zhou's Curriculum Vitae](../assets/English_CV.pd
 </div>
 </div>
 
----
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICLR 2025 Poster</div>
+      <img src='images/MTID_pipeline.png' alt="sym" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
 
-## 💼 Internships
+## [Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos](https://openreview.net/forum?id=HnpDHiItd2)
+
+**Yufan Zhou**, Zhaobo Qi, Lingshuai Lin, et al.
+
+- Focuses on goal-directed planning using visual observations and proposes a latent space temporal interpolation module.
+- Implements masking strategies and task-adaptive proximity loss achieving SOTA performance.  
+
+</div>
+</div>
+
+
+# 💼 Internships
 
 - **May 2024 - Aug 2024**: Research Intern, ENCODE LAB, WestLake University (Advised by Prof. [Huan Wang](https://huanwang.tech/))
 - **Sep 2024 - Nov 2024**: Research Intern, EPIC LAB, Shanghai Jiao Tong University (Advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/))
 
----
-
-## 🎁 Academic Projects
+# 🎁 Academic Projects
 
 <p>I have conducted several surveys in my field to provide detailed assistance to those interested in my work.</p>
 
 - **[A Survey of Synthetic Image Methods with Diffusion](https://github.com/WiserZhou/A-Survey-of-Synthetic-Images-Methods-with-Diffusion)**
 - **[A Survey of Procedure Planning in Instructional Videos](https://github.com/WiserZhou/A-Survey-of-Procedure-Planning-in-Instructional-Videos)**
 
----
-
-## 💻 Software Projects
+# 💻 Software Projects
 
 <p>I enjoy creating software for fun and exploring new technologies, such as Vue, Spring Boot, Android, and other tech stacks. I have completed several projects using these technologies, which have enhanced my technical skills, project management abilities, and experience in requirement analysis. Additionally, I hope my library can assist others in learning and applying code for their needs and research.</p>
 
@@ -105,9 +116,7 @@ You can find my CV here: [Yufan Zhou's Curriculum Vitae](../assets/English_CV.pd
 - **[Medicine WeChat Mini Program](https://github.com/WiserZhou/weixinMedicine)**
 - **[Teacher Student Mutual Selection System](https://github.com/WiserZhou/VolunteerSelection)**
 
----
-
-## Course Projects
+# Course Projects
 
 <p>I enjoy acquiring knowledge in computer science and related fields. During my courses, I have built several projects to enhance my learning experience. By writing code and documenting information in markdown, I aim to teach myself and future learners more effectively.</p>
 
@@ -120,8 +129,6 @@ You can find my CV here: [Yufan Zhou's Curriculum Vitae](../assets/English_CV.pd
 - **[Database System Course](https://github.com/WiserZhou/DatabaseSystem)**
 - **[Network Course](https://github.com/WiserZhou/network)**
 - **[Operation System Course](https://github.com/WiserZhou/OS_Code)**
-
----
 
 <!-- # 💼 Academic Service
 
@@ -136,26 +143,19 @@ Proof of my participation in these volunteer services can be verified on the res
 
 - Advisor: [Zhaobo Qi](https://scholar.google.com.hk/citations?user=QZ8URKAAAAAJ&hl=zh-CN), [Huan Wang](https://huanwang.tech/), [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang), [Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/) -->
 
----
+# 🛠 Tech Stack & Latest Blogs
 
-## 🛠 Tech Stack & Latest Blogs
-
-### Current Learning
+## Current Learning
 
 - Deepening knowledge in Machine Learning and AI.
 - Exploring advanced web patterns and software management techniques.
 - Improving academic skills in Diffusion and AIGC.
 
-### Latest Blog Posts
+## Latest Blog Posts
 
 - [Python Data Visualization Library Matplotlib Learning (2D)](https://blog.csdn.net/imm_ortal_/article/details/131498785)
 - [Development of Qt Simple Paginated Browser Framework](https://blog.csdn.net/imm_ortal_/article/details/131484470)
 
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=WiserZhou&label=Profile%20views&color=yellow&style=for-the-badge&logo=star&base=0&abbreviated=true" alt="Profile views" />
-</p>
 
 ![Language](https://img.shields.io/badge/language-C++-lightblue)
 ![Language](https://img.shields.io/badge/language-C-brightgreen)
