@@ -109,14 +109,14 @@ You can find my CV here: [Yufan Zhou's Curriculum Vitae](../assets/English_CV.pd
 <p>I enjoy creating software for fun and exploring new technologies, such as Vue, Spring Boot, Android, and other tech stacks. I have completed several projects using these technologies, which have enhanced my technical skills, project management abilities, and experience in requirement analysis. Additionally, I hope my library can assist others in learning and applying code for their needs and research.</p>
 
 - **[MM-LSTM](https://github.com/WiserZhou/MM-LSTM)**
-- **[LLM agent + RAG + Virtual Digital Person](https://github.com/WiserZhou/QA-question)**
+- **[LLM agent + RAG + Virtual Digital Person](https://github.com/yxf203/QA-question)**
 - **[Simple Qt Browser Framework](https://github.com/WiserZhou/Simple-Paging-Browser-Framework)**
 - **[Android Accessibility Service](https://github.com/WiserZhou/AccessibilityService)**
 - **[Wholesale And Retail System (Vue + Springboot)](https://github.com/WiserZhou/WholesaleAndRetailSystem)**
 - **[Medicine WeChat Mini Program](https://github.com/WiserZhou/weixinMedicine)**
 - **[Teacher Student Mutual Selection System](https://github.com/WiserZhou/VolunteerSelection)**
 
-# Course Projects
+# 📗 Course Projects
 
 <p>I enjoy acquiring knowledge in computer science and related fields. During my courses, I have built several projects to enhance my learning experience. By writing code and documenting information in markdown, I aim to teach myself and future learners more effectively.</p>
 
