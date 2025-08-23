@@ -112,7 +112,8 @@ Yunhan Yang\*, **Yufan Zhou\***, Yuan-Chen Guo, Zi-Xin Zou, Yukun Huang, Ying-Ti
 
 ## [Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos](https://openreview.net/forum?id=HnpDHiItd2)
 
-**Yufan Zhou**, Zhaobo Qi, Lingshuai Lin, et al.
+<!-- **Yufan Zhou**, Zhaobo Qi, Lingshuai Lin, et al. -->
+**Yufan Zhou**, Zhaobo Qi, Lingshuai Lin, Junqi Jing, Tingting Chai, Beichen Zhang, Shuhui Wang, Weigang Zhang
 
 - Focuses on goal-directed planning using visual observations and proposes a latent space temporal interpolation module.
 - Implements masking strategies and task-adaptive proximity loss achieving SOTA performance.  
@@ -125,8 +126,8 @@ Yunhan Yang\*, **Yufan Zhou\***, Yuan-Chen Guo, Zi-Xin Zou, Yukun Huang, Ying-Ti
 
 - **May 2024 - Nov 2024**: Research Intern, ENCODE LAB, WestLake University (Advised by Prof. [Huan Wang](https://huanwang.tech/))
 <!-- - **Sep 2024 - Nov 2024**: Research Intern, EPIC LAB, Shanghai Jiao Tong University (Advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/)) -->
-- **Mar 2025 - Jun 2025**: Research Intern, VAST & HKU (Advised by Prof. [Xihui Liu](https://xh-liu.github.io/) and [Yan-Pei Cao](https://yanpei.me/))
-- **Jul 2025 - Oct 2025**: Research Intern, MMLab & NTU (Advised by Prof. [Xingang Pan](https://xingangpan.github.io/))
+- **Mar 2025 - Jun 2025**: Research Intern, MMLab@HKU & VAST (Advised by Prof. [Xihui Liu](https://xh-liu.github.io/) and [Yan-Pei Cao](https://yanpei.me/))
+- **Jul 2025 - Oct 2025**: Research Intern, MMLab@NTU (Advised by Prof. [Xingang Pan](https://xingangpan.github.io/))
 
 # 🎁 Academic Projects
 
