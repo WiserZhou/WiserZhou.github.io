@@ -24,7 +24,7 @@ redirect_from:
 - **Jul 2025 - Oct 2025**: Research Intern, MMLab & NTU (Advised by Prof. [Xingang Pan](https://xingangpan.github.io/)) -->
 
 <!--Start Intro-->
-My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Harbin Institute of Technology, advised by Prof. [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang) and [Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/). I have also done a research internship and visited students in Professor [Huan Wang](https://huanwang.tech/)’s ENCODE Lab (WestLake University), [Xihui Liu](https://xh-liu.github.io/) in MMLab@HKU and [Xingang Pan](https://xingangpan.github.io/) in MMLab@NTU before.
+My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Harbin Institute of Technology, advised by Prof. [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang) and [Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/). I have also done a research internship and visited students in Professor [Huan Wang](https://huanwang.tech/)’s ENCODE Lab (WestLake University), [Yan-Pei Cao](https://yanpei.me/) in VAST, [Xihui Liu](https://xh-liu.github.io/) in MMLab@HKU and [Xingang Pan](https://xingangpan.github.io/) in MMLab@NTU before.
 
 <p>I am broadly interested in various software development technologies and diffusion theory, particularly in T2V (Text-to-Video), T2I (Text-to-Image), personalization generation, and projects involving procedural planning (e.g., Video Prediction).</p>
 
