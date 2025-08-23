@@ -41,7 +41,7 @@ You can find my CV here: [Yufan Zhou's Curriculum Vitae](../assets/English_CV.pd
 - **2025.08**: &nbsp;🎉 The paper *"OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion"* has been accepted at SIGGRAPH ASIA 2025.
 - **2025.07**：&nbsp;🤗 Started a Research Internship at MMLab@NTU, focusing on 3D generation & Reconstruction.
 <!-- - **2025.02**: &nbsp;🤗 The paper *"FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion"* has been published as a preprint on ArXiv. -->
-- **2025.03**: &nbsp;🤗 Started a Research Internship at VAST & HKU, focusing on 3D part generation.
+- **2025.03**: &nbsp;🤗 Started a Research Internship at VAST & MMLab@HKU, focusing on 3D part generation.
 - **2025.01**: &nbsp;🎉 The paper *"Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos"* has been accepted as a poster at ICLR 2025.
 - **2024.10**: &nbsp;🎉 Awarded the National Scholarship by the Ministry of Education of China.
 - **2024.07**: &nbsp;🎉 Received the National Third Prize in the Computer Design Contest with the Virtual Digital Agent project.
