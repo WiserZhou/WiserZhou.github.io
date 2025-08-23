@@ -20,11 +20,8 @@ redirect_from:
 <!--Header Name-->
 ![Emoji](https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430){: width="30" align="left" }*Undergraduate student in software engineering*
 
-<!-- - **Mar 2025 - Jun 2025**: Research Intern, VAST & HKU (Advised by Prof. [Xihui Liu](https://xh-liu.github.io/) and [Yan-Pei Cao](https://yanpei.me/))
-- **Jul 2025 - Oct 2025**: Research Intern, MMLab & NTU (Advised by Prof. [Xingang Pan](https://xingangpan.github.io/)) -->
-
 <!--Start Intro-->
-My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Harbin Institute of Technology, advised by Prof. [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang) and [Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/). I have also done a research internship and visited students in Professor [Huan Wang](https://huanwang.tech/)’s ENCODE Lab (WestLake University), [Yan-Pei Cao](https://yanpei.me/) in VAST, [Xihui Liu](https://xh-liu.github.io/) in MMLab@HKU and [Xingang Pan](https://xingangpan.github.io/) in MMLab@NTU before.
+My name is Yufan Zhou (Chinese: 周雨凡). I am an undergraduate student at Harbin Institute of Technology, advised by Prof. [Weigang Zhang](https://homepage.hit.edu.cn/zhangweigang) and [Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/). I have also done a research internship and visited students in Professor [Huan Wang](https://huanwang.tech/) in WU, [Yan-Pei Cao](https://yanpei.me/) in VAST, [Xihui Liu](https://xh-liu.github.io/) in MMLab@HKU and [Xingang Pan](https://xingangpan.github.io/) in MMLab@NTU before.
 
 <p>I am broadly interested in various software development technologies and diffusion theory, particularly in T2V (Text-to-Video), T2I (Text-to-Image), personalization generation, and projects involving procedural planning (e.g., Video Prediction).</p>
 
@@ -47,7 +44,6 @@ You can find my CV here: [Yufan Zhou's Curriculum Vitae](../assets/English_CV.pd
 - **2025.03**: &nbsp;🤗 Started a Research Internship at VAST & HKU, focusing on 3D part generation.
 - **2025.01**: &nbsp;🎉 The paper *"Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos"* has been accepted as a poster at ICLR 2025.
 - **2024.10**: &nbsp;🎉 Awarded the National Scholarship by the Ministry of Education of China.
-<!-- - **2024.08**: &nbsp;🤗 Started a Research Internship at EPIC Lab, Shanghai Jiao Tong University, focusing on Adversarial Attacks. -->
 - **2024.07**: &nbsp;🎉 Received the National Third Prize in the Computer Design Contest with the Virtual Digital Agent project.
 - **2024.06**: &nbsp;🤗 Started a Research Internship at ENCODE Lab, Westlake University, focusing on Image Generation with Diffusion Models.
 - **2024.05**: &nbsp;🎉 Named a Finalist in the Mathematical Contest in Modeling with MM-LSTM method.
