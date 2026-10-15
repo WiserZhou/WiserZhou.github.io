@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yufan Zhou"
-description              : "Student at Harbin Institute of Technology"
+description              : "PhD Student at School of Computing and Data Science (CDS), The University of Hong Kong"
 repository               : "WiserZhou/WiserZhou.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Yufan Zhou"
   avatar           : "images/photo.jpg"
-  bio              : "Harbin Institute of Technology"
-  location         : "China"
-  employer         :
+  bio              : "The University of Hong Kong (HKU CDS)"
+  location         : "Hong Kong"
+  employer         : "The University of Hong Kong"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AFix5MbNV8azkX-t-6P_nxXFIp-ZYedZLbzJBU7Y9LeDAW_1JbzlAlXShJ_HEpepzVWI7h9VmKXmWByMvAkQZQ&user=dNe36RoAAAAJ"
   email            : "yfzhou@stu.hit.edu.cn"

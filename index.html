@@ -1,0 +1,809 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Yufan Zhou · 周雨凡 — HKU CDS</title>
+    <meta
+      name="description"
+      content="Yufan Zhou (周雨凡), PhD Student at the School of Computing and Data Science (CDS), The University of Hong Kong, advised by Prof. Difan Zou. Researching Embodied AI, 3D Vision & Generation, and World Models."
+    />
+    <link rel="canonical" href="https://wiserzhou.github.io/" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Yufan Zhou · 周雨凡 — PhD Student at HKU CDS" />
+    <meta
+      property="og:description"
+      content="PhD Student at HKU School of Computing and Data Science, advised by Prof. Difan Zou. Researching Embodied AI and 3D Generation."
+    />
+    <meta property="og:url" content="https://wiserzhou.github.io/" />
+    <meta property="og:image" content="https://wiserzhou.github.io/images/photo.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32×32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png" />
+
+    <!-- Fonts: Editorial Serif + Modern Sans + JetBrains Mono -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&family=Noto+Serif+SC:wght@500;600&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="assets/css/redesign.css" />
+  </head>
+
+  <body>
+    <!-- Subtle ambient 3D spatial grid backdrop -->
+    <div class="ambient-backdrop" aria-hidden="true">
+      <div class="ambient-glow ambient-glow--1"></div>
+      <div class="ambient-glow ambient-glow--2"></div>
+      <div class="ambient-grid"></div>
+    </div>
+
+    <!-- Top Navigation Bar -->
+    <header class="topbar" id="top">
+      <div class="topbar-inner">
+        <a href="#top" class="brand" aria-label="Yufan Zhou Home">
+          <span class="brand-mark">YZ</span>
+          <span class="brand-text">Yufan Zhou</span>
+          <span class="brand-tag">HKU CDS</span>
+        </a>
+
+        <nav class="nav" aria-label="Primary Navigation">
+          <a href="#about" class="nav-link">About</a>
+          <a href="#research" class="nav-link">Research</a>
+          <a href="#publications" class="nav-link">Publications</a>
+          <a href="#experience" class="nav-link">Experience</a>
+          <a href="#honors" class="nav-link">Honors</a>
+        </nav>
+
+        <div class="topbar-actions">
+          <a href="assets/English_CV.pdf" target="_blank" rel="noopener" class="cv-pill">
+            <span>CV</span>
+            <svg width="11" height="11" viewBox="0 0 12 12" fill="none" aria-hidden="true">
+              <path d="M2.5 9.5L9.5 2.5M9.5 2.5H4M9.5 2.5V8" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </a>
+          <button
+            class="theme-toggle"
+            id="themeToggle"
+            type="button"
+            aria-label="Toggle color theme"
+            title="Switch light / dark theme"
+          >
+            <svg class="icon-sun" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="5"></circle>
+              <line x1="12" y1="1" x2="12" y2="3"></line>
+              <line x1="12" y1="21" x2="12" y2="23"></line>
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+              <line x1="1" y1="12" x2="3" y2="12"></line>
+              <line x1="21" y1="12" x2="23" y2="12"></line>
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+            </svg>
+            <svg class="icon-moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main class="container">
+      <!-- HERO SECTION -->
+      <section class="hero" id="about">
+        <div class="hero-content">
+          <div class="eyebrow">
+            <span class="status-dot"></span>
+            <span>School of Computing and Data Science · The University of Hong Kong</span>
+          </div>
+
+          <h1 class="hero-title">
+            Yufan Zhou
+            <span class="hero-cn" lang="zh-Hans">周雨凡</span>
+          </h1>
+
+          <p class="hero-subtitle">
+            Ph.D. Student at <a href="https://www.cds.hku.hk/" target="_blank" rel="noopener">HKU CDS</a>, advised by
+            <a href="https://difanzou.github.io/" target="_blank" rel="noopener">Prof. Difan Zou</a>.
+          </p>
+
+          <div class="hero-bio">
+            <p>
+              I am a Ph.D. student in the
+              <a href="https://www.cds.hku.hk/" target="_blank" rel="noopener">School of Computing and Data Science (CDS)</a>
+              at <strong>The University of Hong Kong (HKU)</strong>, where I am fortunate to be advised by
+              <a href="https://difanzou.github.io/" target="_blank" rel="noopener">Prof. Difan Zou</a>.
+              Prior to joining HKU, I received my B.Eng. degree in Software Engineering from
+              <strong>Harbin Institute of Technology (HIT)</strong> (Rank 2/231, National Scholarship recipient), advised by
+              Prof. <a href="https://homepage.hit.edu.cn/zhangweigang" target="_blank" rel="noopener">Weigang Zhang</a> and
+              Prof. <a href="https://vipl.ict.ac.cn/people/shwang/" target="_blank" rel="noopener">Shuhui Wang</a>.
+            </p>
+            <p>
+              My research centers on <strong>Embodied AI</strong> and <strong>3D Vision &amp; Generation</strong>. I aim to build spatially grounded, physically plausible 3D world representations and generalist embodied agents capable of perceiving, reasoning, and interacting with complex physical environments. Previously, I was a research intern at
+              <a href="https://www.ntu.edu.sg/" target="_blank" rel="noopener">MMLab@NTU</a> (with Prof. <a href="https://xingangpan.github.io/" target="_blank" rel="noopener">Xingang Pan</a>),
+              <a href="https://www.hku.hk/" target="_blank" rel="noopener">MMLab@HKU</a> &amp; VAST (with Prof. <a href="https://xh-liu.github.io/" target="_blank" rel="noopener">Xihui Liu</a> and <a href="https://yanpei.me/" target="_blank" rel="noopener">Yan-Pei Cao</a>), and
+              <a href="https://en.westlake.edu.cn/" target="_blank" rel="noopener">Westlake University</a> (with Prof. <a href="https://huanwang.tech/" target="_blank" rel="noopener">Huan Wang</a>).
+            </p>
+          </div>
+
+          <!-- Social & Academic Links -->
+          <div class="hero-links">
+            <a
+              href="https://scholar.google.com/citations?user=dNe36RoAAAAJ&hl=en"
+              target="_blank"
+              rel="noopener"
+              class="social-chip"
+            >
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M22 10v6M2 10l10-5 10 5-10 5z"/>
+                <path d="M6 12v5c3 3 9 3 12 0v-5"/>
+              </svg>
+              <span>Google Scholar</span>
+              <span class="citation-pill" id="scholarCitations" title="Total Google Scholar Citations"></span>
+            </a>
+
+            <a
+              href="https://github.com/WiserZhou"
+              target="_blank"
+              rel="noopener"
+              class="social-chip"
+            >
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+              </svg>
+              <span>GitHub</span>
+            </a>
+
+            <a
+              href="https://x.com/WZhou72767"
+              target="_blank"
+              rel="noopener"
+              class="social-chip"
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+              </svg>
+              <span>Twitter / X</span>
+            </a>
+
+            <a
+              href="mailto:yfzhou@stu.hit.edu.cn"
+              class="social-chip"
+            >
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="2" y="4" width="20" height="16" rx="2"></rect>
+                <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path>
+              </svg>
+              <span>Email</span>
+            </a>
+
+            <a
+              href="assets/English_CV.pdf"
+              target="_blank"
+              rel="noopener"
+              class="social-chip"
+            >
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                <polyline points="14 2 14 8 20 8"></polyline>
+                <line x1="16" y1="13" x2="8" y2="13"></line>
+                <line x1="16" y1="17" x2="8" y2="17"></line>
+              </svg>
+              <span>Curriculum Vitae</span>
+            </a>
+          </div>
+        </div>
+
+        <!-- Portrait Card -->
+        <aside class="hero-visual">
+          <div class="portrait-frame">
+            <img
+              src="images/photo.jpg"
+              alt="Portrait of Yufan Zhou"
+              class="portrait-img"
+              width="420"
+              height="520"
+            />
+            <div class="portrait-caption">
+              <div class="caption-line">
+                <span class="caption-label">AFFILIATION</span>
+                <span class="caption-val">HKU CDS</span>
+              </div>
+              <div class="caption-line">
+                <span class="caption-label">ADVISOR</span>
+                <span class="caption-val">Prof. Difan Zou</span>
+              </div>
+              <div class="caption-line">
+                <span class="caption-label">FOCUS</span>
+                <span class="caption-val">Embodied AI · 3D</span>
+              </div>
+            </div>
+          </div>
+        </aside>
+      </section>
+
+      <!-- RESEARCH PILLARS -->
+      <section class="section" id="research">
+        <div class="section-header">
+          <span class="section-index">01</span>
+          <h2 class="section-title">Research Vision</h2>
+          <span class="section-rule"></span>
+        </div>
+
+        <div class="pillars-grid">
+          <article class="pillar-card">
+            <div class="pillar-top">
+              <span class="pillar-tag">PILLAR I</span>
+              <svg class="pillar-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <path d="M12 2L2 7l10 5 10-5-10-5z"/>
+                <path d="M2 17l10 5 10-5"/>
+                <path d="M2 12l10 5 10-5"/>
+              </svg>
+            </div>
+            <h3 class="pillar-title">Embodied Intelligence &amp; Planning</h3>
+            <p class="pillar-desc">
+              Equipping physical agents with goal-directed procedural planning, spatial-temporal reasoning, and generalizable action policies grounded in multimodal sensory observations.
+            </p>
+            <div class="pillar-keywords">
+              <span>Embodied Agents</span>
+              <span>Procedure Planning</span>
+              <span>6D Pose &amp; Manipulation</span>
+            </div>
+          </article>
+
+          <article class="pillar-card">
+            <div class="pillar-top">
+              <span class="pillar-tag">PILLAR II</span>
+              <svg class="pillar-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/>
+                <polyline points="3.27 6.96 12 12.01 20.73 6.96"/>
+                <line x1="12" y1="22.08" x2="12" y2="12"/>
+              </svg>
+            </div>
+            <h3 class="pillar-title">3D Generation &amp; Reconstruction</h3>
+            <p class="pillar-desc">
+              Synthesizing part-aware, semantically decoupled, and structurally cohesive 3D assets and interactive environments that bridge neural representations with physical simulation.
+            </p>
+            <div class="pillar-keywords">
+              <span>Part-Aware 3D</span>
+              <span>3D Reconstruction</span>
+              <span>Spatial Flow Matching</span>
+            </div>
+          </article>
+
+          <article class="pillar-card">
+            <div class="pillar-top">
+              <span class="pillar-tag">PILLAR III</span>
+              <svg class="pillar-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <circle cx="12" cy="12" r="10"/>
+                <path d="M2 12h20"/>
+                <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+              </svg>
+            </div>
+            <h3 class="pillar-title">Generative World Models</h3>
+            <p class="pillar-desc">
+              Advancing diffusion and rectified flow architectures with physical constraints and latent interpolation for controllable visual synthesis and world-building.
+            </p>
+            <div class="pillar-keywords">
+              <span>Diffusion &amp; Flow Models</span>
+              <span>World Models</span>
+              <span>Concept Blending</span>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <!-- NEWS / UPDATES -->
+      <section class="section" id="news">
+        <div class="section-header">
+          <span class="section-index">02</span>
+          <h2 class="section-title">Recent Highlights</h2>
+          <span class="section-rule"></span>
+        </div>
+
+        <ul class="news-list">
+          <li class="news-item news-item--featured">
+            <span class="news-date">2026.09</span>
+            <div class="news-body">
+              <span class="news-badge">Milestone</span>
+              Joined the <strong>School of Computing and Data Science (CDS)</strong> at <strong>The University of Hong Kong (HKU)</strong>, advised by <a href="https://difanzou.github.io/" target="_blank" rel="noopener">Prof. Difan Zou</a>, focusing on Embodied AI and 3D.
+            </div>
+          </li>
+          <li class="news-item">
+            <span class="news-date">2026.06</span>
+            <div class="news-body">
+              Graduated with Honors from <strong>Harbin Institute of Technology (HIT)</strong> with a B.Eng. in Software Engineering (GPA 3.9/4.0, Rank 2/231).
+            </div>
+          </li>
+          <li class="news-item">
+            <span class="news-date">2025.08</span>
+            <div class="news-body">
+              <span class="news-badge">SIGGRAPH Asia</span>
+              Our paper <em>"OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion"</em> was accepted to <strong>SIGGRAPH Asia 2025</strong>.
+            </div>
+          </li>
+          <li class="news-item">
+            <span class="news-date">2025.07</span>
+            <div class="news-body">
+              Started a research internship at <strong>MMLab@NTU</strong> (Nanyang Technological University), working with Prof. <a href="https://xingangpan.github.io/" target="_blank" rel="noopener">Xingang Pan</a> on 3D generation, reconstruction, and 6D pose estimation.
+            </div>
+          </li>
+          <li class="news-item">
+            <span class="news-date">2025.03</span>
+            <div class="news-body">
+              Started a research internship at <strong>MMLab@HKU &amp; VAST</strong>, advised by Prof. <a href="https://xh-liu.github.io/" target="_blank" rel="noopener">Xihui Liu</a> and <a href="https://yanpei.me/" target="_blank" rel="noopener">Yan-Pei Cao</a> on part-aware 3D generation.
+            </div>
+          </li>
+          <li class="news-item">
+            <span class="news-date">2025.01</span>
+            <div class="news-body">
+              <span class="news-badge">ICLR 2025</span>
+              Our paper <em>"Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos"</em> was accepted to <strong>ICLR 2025</strong>.
+            </div>
+          </li>
+          <li class="news-item">
+            <span class="news-date">2024.10</span>
+            <div class="news-body">
+              Awarded the <strong>National Scholarship</strong> by the Ministry of Education of China.
+            </div>
+          </li>
+        </ul>
+      </section>
+
+      <!-- SELECTED PUBLICATIONS -->
+      <section class="section" id="publications">
+        <div class="section-header">
+          <span class="section-index">03</span>
+          <h2 class="section-title">Selected Publications</h2>
+          <span class="section-rule"></span>
+          <span class="section-note">* denotes equal contribution</span>
+        </div>
+
+        <div class="pub-list">
+          <!-- Paper 1: OmniPart -->
+          <article class="pub-card">
+            <div class="pub-media">
+              <span class="pub-venue-tag pub-venue-tag--highlight">SIGGRAPH Asia 2025</span>
+              <a href="https://omnipart.github.io/" target="_blank" rel="noopener" class="pub-thumb-link">
+                <img
+                  src="images/OmniPart.png"
+                  alt="OmniPart: Part-Aware 3D Generation"
+                  class="pub-thumb"
+                  loading="lazy"
+                />
+              </a>
+            </div>
+
+            <div class="pub-content">
+              <div class="pub-domains">
+                <span>3D Generation</span>
+                <span>Part-Aware Modeling</span>
+                <span>Rectified Flow</span>
+              </div>
+
+              <h3 class="pub-title">
+                <a href="https://omnipart.github.io/" target="_blank" rel="noopener">
+                  OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion
+                </a>
+              </h3>
+
+              <p class="pub-authors">
+                Yunhan Yang*, <strong class="me">Yufan Zhou*</strong>, Yuan-Chen Guo, Zi-Xin Zou, Yukun Huang, Ying-Tian Liu, Hao Xu, Ding Liang, Yan-Pei Cao<sup>✉</sup>, Xihui Liu<sup>✉</sup>
+              </p>
+
+              <p class="pub-summary">
+                A two-stage framework for editable, part-aware 3D object generation that couples an autoregressive 3D part bounding-box structure planner with a spatially-conditioned rectified flow generator—achieving high semantic decoupling and geometric cohesion across articulated and multi-part 3D assets.
+              </p>
+
+              <div class="pub-links">
+                <a href="https://omnipart.github.io/" target="_blank" rel="noopener" class="pub-btn pub-btn--primary">Project Page</a>
+                <a href="https://arxiv.org/abs/2507.06165" target="_blank" rel="noopener" class="pub-btn">arXiv</a>
+                <a href="https://arxiv.org/pdf/2507.06165" target="_blank" rel="noopener" class="pub-btn">PDF</a>
+                <button type="button" class="pub-btn bibtex-btn" data-bib="bib-omnipart">BibTeX</button>
+              </div>
+
+              <pre class="bibtex-box" id="bib-omnipart" hidden><code>@article{yang2025omnipart,
+  title={OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion},
+  author={Yang, Yunhan and Zhou, Yufan and Guo, Yuan-Chen and Zou, Zi-Xin and Huang, Yukun and Liu, Ying-Tian and Xu, Hao and Liang, Ding and Cao, Yan-Pei and Liu, Xihui},
+  journal={ACM Transactions on Graphics (SIGGRAPH Asia)},
+  year={2025}
+}</code></pre>
+            </div>
+          </article>
+
+          <!-- Paper 2: MTID -->
+          <article class="pub-card">
+            <div class="pub-media">
+              <span class="pub-venue-tag">ICLR 2025</span>
+              <a href="https://openreview.net/forum?id=HnpDHiItd2" target="_blank" rel="noopener" class="pub-thumb-link">
+                <img
+                  src="images/MTID_pipeline.png"
+                  alt="Masked Temporal Interpolation Diffusion"
+                  class="pub-thumb"
+                  loading="lazy"
+                />
+              </a>
+            </div>
+
+            <div class="pub-content">
+              <div class="pub-domains">
+                <span>Embodied Planning</span>
+                <span>Procedural Reasoning</span>
+                <span>Diffusion</span>
+              </div>
+
+              <h3 class="pub-title">
+                <a href="https://openreview.net/forum?id=HnpDHiItd2" target="_blank" rel="noopener">
+                  Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos
+                </a>
+              </h3>
+
+              <p class="pub-authors">
+                <strong class="me">Yufan Zhou</strong>, Zhaobo Qi, Lingshuai Lin, Junqi Jing, Tingting Chai, Beichen Zhang, Shuhui Wang, Weigang Zhang
+              </p>
+
+              <p class="pub-summary">
+                Addresses goal-directed procedure planning from visual start and goal observations by introducing a latent-space temporal interpolation module and a task-adaptive masked proximity loss, enabling coherent intermediate state reasoning and state-of-the-art action sequence prediction.
+              </p>
+
+              <div class="pub-links">
+                <a href="https://openreview.net/forum?id=HnpDHiItd2" target="_blank" rel="noopener" class="pub-btn pub-btn--primary">OpenReview</a>
+                <button type="button" class="pub-btn bibtex-btn" data-bib="bib-mtid">BibTeX</button>
+              </div>
+
+              <pre class="bibtex-box" id="bib-mtid" hidden><code>@inproceedings{zhou2025masked,
+  title={Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos},
+  author={Zhou, Yufan and Qi, Zhaobo and Lin, Lingshuai and Jing, Junqi and Chai, Tingting and Zhang, Beichen and Wang, Shuhui and Zhang, Weigang},
+  booktitle={International Conference on Learning Representations (ICLR)},
+  year={2025}
+}</code></pre>
+            </div>
+          </article>
+
+          <!-- Paper 3: FreeBlend -->
+          <article class="pub-card">
+            <div class="pub-media">
+              <span class="pub-venue-tag">NeurIPS Workshop 2025</span>
+              <a href="https://petershen-csworld.github.io/FreeBlend/" target="_blank" rel="noopener" class="pub-thumb-link">
+                <img
+                  src="images/FreeBlend_pipeline2.png"
+                  alt="FreeBlend Concept Blending"
+                  class="pub-thumb"
+                  loading="lazy"
+                />
+              </a>
+            </div>
+
+            <div class="pub-content">
+              <div class="pub-domains">
+                <span>Generative Diffusion</span>
+                <span>Latent Interpolation</span>
+                <span>Concept Synthesis</span>
+              </div>
+
+              <h3 class="pub-title">
+                <a href="https://arxiv.org/abs/2502.05606" target="_blank" rel="noopener">
+                  FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion
+                </a>
+              </h3>
+
+              <p class="pub-authors">
+                <strong class="me">Yufan Zhou*</strong>, Haoyu Shen*, Huan Wang
+              </p>
+
+              <p class="pub-summary">
+                A training-free concept blending framework utilizing staged latent interpolation and reverse-order feedback updates with unCLIP image conditions to synthesize visually harmonious and semantically faithful cross-concept compositions.
+              </p>
+
+              <div class="pub-links">
+                <a href="https://petershen-csworld.github.io/FreeBlend/" target="_blank" rel="noopener" class="pub-btn pub-btn--primary">Project Page</a>
+                <a href="https://arxiv.org/abs/2502.05606" target="_blank" rel="noopener" class="pub-btn">arXiv</a>
+                <a href="https://arxiv.org/pdf/2502.05606" target="_blank" rel="noopener" class="pub-btn">PDF</a>
+                <button type="button" class="pub-btn bibtex-btn" data-bib="bib-freeblend">BibTeX</button>
+              </div>
+
+              <pre class="bibtex-box" id="bib-freeblend" hidden><code>@article{zhou2025freeblend,
+  title={FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion},
+  author={Zhou, Yufan and Shen, Haoyu and Wang, Huan},
+  journal={arXiv preprint arXiv:2502.05606},
+  year={2025}
+}</code></pre>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <!-- EDUCATION & RESEARCH EXPERIENCE -->
+      <section class="section" id="experience">
+        <div class="section-header">
+          <span class="section-index">04</span>
+          <h2 class="section-title">Education &amp; Research Experience</h2>
+          <span class="section-rule"></span>
+        </div>
+
+        <div class="dual-timeline">
+          <!-- Column 1: Education -->
+          <div class="timeline-col">
+            <h3 class="col-label">Education</h3>
+            <div class="timeline">
+              <div class="timeline-item timeline-item--active">
+                <div class="timeline-meta">2026 – Present</div>
+                <h4 class="timeline-role">The University of Hong Kong (HKU)</h4>
+                <p class="timeline-org">
+                  Ph.D. Student · <a href="https://www.cds.hku.hk/" target="_blank" rel="noopener">School of Computing and Data Science (CDS)</a>
+                </p>
+                <p class="timeline-detail">
+                  Advisor: <a href="https://difanzou.github.io/" target="_blank" rel="noopener">Prof. Difan Zou</a><br />
+                  Research Focus: Embodied AI, 3D Vision &amp; Generation
+                </p>
+              </div>
+
+              <div class="timeline-item">
+                <div class="timeline-meta">Sep 2022 – Jun 2026</div>
+                <h4 class="timeline-role">Harbin Institute of Technology (HIT)</h4>
+                <p class="timeline-org">B.Eng. in Software Engineering</p>
+                <p class="timeline-detail">
+                  GPA: <strong>3.9 / 4.0</strong> · Rank: <strong>2 / 231</strong><br />
+                  Advisors: Prof. <a href="https://homepage.hit.edu.cn/zhangweigang" target="_blank" rel="noopener">Weigang Zhang</a> &amp; Prof. <a href="https://vipl.ict.ac.cn/people/shwang/" target="_blank" rel="noopener">Shuhui Wang</a>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Column 2: Research Internships -->
+          <div class="timeline-col">
+            <h3 class="col-label">Research Appointments</h3>
+            <div class="timeline">
+              <div class="timeline-item">
+                <div class="timeline-meta">Jul 2025 – Oct 2025</div>
+                <h4 class="timeline-role">MMLab @ Nanyang Technological University (NTU)</h4>
+                <p class="timeline-org">
+                  Research Intern · Advised by <a href="https://xingangpan.github.io/" target="_blank" rel="noopener">Prof. Xingang Pan</a>
+                </p>
+                <p class="timeline-detail">
+                  Explored 3D generation and geometric reconstruction pipelines integrated with 6D object pose estimation in 3D scenes.
+                </p>
+              </div>
+
+              <div class="timeline-item">
+                <div class="timeline-meta">Mar 2025 – Jun 2025</div>
+                <h4 class="timeline-role">MMLab @ The University of Hong Kong &amp; VAST</h4>
+                <p class="timeline-org">
+                  Research Intern · Advised by <a href="https://xh-liu.github.io/" target="_blank" rel="noopener">Prof. Xihui Liu</a> &amp; <a href="https://yanpei.me/" target="_blank" rel="noopener">Yan-Pei Cao</a>
+                </p>
+                <p class="timeline-detail">
+                  Investigated part-aware 3D asset generation with semantic decoupling and structural cohesion (<em>OmniPart</em>, SIGGRAPH Asia 2025).
+                </p>
+              </div>
+
+              <div class="timeline-item">
+                <div class="timeline-meta">May 2024 – Nov 2024</div>
+                <h4 class="timeline-role">ENCODE Lab @ Westlake University</h4>
+                <p class="timeline-org">
+                  Research Intern · Advised by <a href="https://huanwang.tech/" target="_blank" rel="noopener">Prof. Huan Wang</a>
+                </p>
+                <p class="timeline-detail">
+                  Researched generative diffusion models for concept blending, personalization, and synthetic data expansion.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- OPEN SOURCE & SELECTED PROJECTS -->
+      <section class="section" id="projects">
+        <div class="section-header">
+          <span class="section-index">05</span>
+          <h2 class="section-title">Selected Projects &amp; Surveys</h2>
+          <span class="section-rule"></span>
+        </div>
+
+        <div class="projects-grid">
+          <a
+            href="https://github.com/WiserZhou/A-Survey-of-Procedure-Planning-in-Instructional-Videos"
+            target="_blank"
+            rel="noopener"
+            class="project-card"
+          >
+            <div class="project-top">
+              <span class="project-type">Research Survey</span>
+              <span class="project-arrow">↗</span>
+            </div>
+            <h3 class="project-name">Procedure Planning in Instructional Videos</h3>
+            <p class="project-desc">
+              A curated taxonomy and literature review of goal-directed procedure planning, action anticipation, and temporal reasoning for embodied tasks.
+            </p>
+          </a>
+
+          <a
+            href="https://github.com/WiserZhou/A-Survey-of-Synthetic-Images-Methods-with-Diffusion"
+            target="_blank"
+            rel="noopener"
+            class="project-card"
+          >
+            <div class="project-top">
+              <span class="project-type">Research Survey</span>
+              <span class="project-arrow">↗</span>
+            </div>
+            <h3 class="project-name">Synthetic Data Generation with Diffusion</h3>
+            <p class="project-desc">
+              Comprehensive survey on leveraging generative diffusion models for dataset augmentation, representation learning, and knowledge distillation.
+            </p>
+          </a>
+
+          <a
+            href="https://github.com/WiserZhou/AccessibilityService"
+            target="_blank"
+            rel="noopener"
+            class="project-card"
+          >
+            <div class="project-top">
+              <span class="project-type">Embodied / GUI Agent</span>
+              <span class="project-arrow">↗</span>
+            </div>
+            <h3 class="project-name">AutoDroid Mobile GUI Agent</h3>
+            <p class="project-desc">
+              LLM-driven smartphone automation assistant leveraging Android Accessibility Services for cross-app task execution and UI grounding.
+            </p>
+          </a>
+
+          <a
+            href="https://github.com/yxf203/QA-question"
+            target="_blank"
+            rel="noopener"
+            class="project-card"
+          >
+            <div class="project-top">
+              <span class="project-type">Interactive Agent</span>
+              <span class="project-arrow">↗</span>
+            </div>
+            <h3 class="project-name">RAG-Powered Virtual Digital Human</h3>
+            <p class="project-desc">
+              Interactive 3D/animated virtual digital agent integrating Retrieval-Augmented Generation (RAG) for multimodal conversational interaction.
+            </p>
+          </a>
+        </div>
+      </section>
+
+      <!-- HONORS & AWARDS -->
+      <section class="section" id="honors">
+        <div class="section-header">
+          <span class="section-index">06</span>
+          <h2 class="section-title">Honors &amp; Awards</h2>
+          <span class="section-rule"></span>
+        </div>
+
+        <div class="honors-grid">
+          <div class="honor-item">
+            <span class="honor-year">2024</span>
+            <div class="honor-info">
+              <h4 class="honor-name">National Scholarship (国家奖学金)</h4>
+              <p class="honor-org">Ministry of Education of the People's Republic of China (Top 1% nationwide)</p>
+            </div>
+          </div>
+
+          <div class="honor-item">
+            <span class="honor-year">2024</span>
+            <div class="honor-info">
+              <h4 class="honor-name">Huawei Smart Base Scholarship</h4>
+              <p class="honor-org">Huawei Technologies &amp; Harbin Institute of Technology</p>
+            </div>
+          </div>
+
+          <div class="honor-item">
+            <span class="honor-year">2024</span>
+            <div class="honor-info">
+              <h4 class="honor-name">Finalist (F Award), Mathematical Contest in Modeling (MCM/ICM)</h4>
+              <p class="honor-org">COMAP — Consortium for Mathematics and Its Applications</p>
+            </div>
+          </div>
+
+          <div class="honor-item">
+            <span class="honor-year">2024</span>
+            <div class="honor-info">
+              <h4 class="honor-name">National Third Prize, China Collegiate Computing Contest</h4>
+              <p class="honor-org">Virtual Digital Agent Project</p>
+            </div>
+          </div>
+
+          <div class="honor-item">
+            <span class="honor-year">2023</span>
+            <div class="honor-info">
+              <h4 class="honor-name">National Third Prize, National University Physics Experiment Competition</h4>
+              <p class="honor-org">Interactive 3D Physics Simulation with Unity3D</p>
+            </div>
+          </div>
+
+          <div class="honor-item">
+            <span class="honor-year">2022–25</span>
+            <div class="honor-info">
+              <h4 class="honor-name">First-Class Academic Scholarships &amp; ACM Freshman Programming Bronze</h4>
+              <p class="honor-org">Harbin Institute of Technology</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+      <div class="footer-inner">
+        <div class="footer-left">
+          <span class="footer-name">Yufan Zhou · 周雨凡</span>
+          <span class="footer-affil">School of Computing and Data Science, The University of Hong Kong</span>
+        </div>
+        <div class="footer-right">
+          <span>&copy; <span id="year">2026</span> Yufan Zhou</span>
+          <span class="dot-sep">·</span>
+          <a href="#top">Back to top ↑</a>
+        </div>
+      </div>
+    </footer>
+
+    <script>
+      (function () {
+        // Theme initialization & toggle
+        const root = document.documentElement;
+        const toggleBtn = document.getElementById("themeToggle");
+        const savedTheme = localStorage.getItem("yz-theme");
+        const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+
+        if (savedTheme === "dark" || (!savedTheme && prefersDark)) {
+          root.setAttribute("data-theme", "dark");
+        } else {
+          root.setAttribute("data-theme", "light");
+        }
+
+        if (toggleBtn) {
+          toggleBtn.addEventListener("click", function () {
+            const current = root.getAttribute("data-theme");
+            const next = current === "dark" ? "light" : "dark";
+            root.setAttribute("data-theme", next);
+            localStorage.setItem("yz-theme", next);
+          });
+        }
+
+        // BibTeX toggles
+        document.querySelectorAll(".bibtex-btn").forEach(function (btn) {
+          btn.addEventListener("click", function () {
+            const id = btn.getAttribute("data-bib");
+            const box = document.getElementById(id);
+            if (!box) return;
+            const isHidden = box.hasAttribute("hidden");
+            if (isHidden) {
+              box.removeAttribute("hidden");
+              btn.classList.add("is-active");
+            } else {
+              box.setAttribute("hidden", "");
+              btn.classList.remove("is-active");
+            }
+          });
+        });
+
+        // Dynamic Google Scholar citation badge (from repo's google-scholar-stats branch)
+        const citeEl = document.getElementById("scholarCitations");
+        if (citeEl) {
+          fetch("https://cdn.jsdelivr.net/gh/WiserZhou/WiserZhou.github.io@google-scholar-stats/gs_data_shieldsio.json")
+            .then(function (r) {
+              return r.ok ? r.json() : null;
+            })
+            .then(function (data) {
+              if (data && data.message) {
+                citeEl.textContent = data.message + " cites";
+                citeEl.classList.add("is-loaded");
+              }
+            })
+            .catch(function () {});
+        }
+      })();
+    </script>
+  </body>
+</html>
